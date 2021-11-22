@@ -1,7 +1,7 @@
 //Diseñar una función eco() a la que se le pasa como parámetro un número n,
 //y muestra por pantalla n veces el mensaje "Eco..."
 
-package Ejercicios.unidad3;
+package Ejercicios.unidad3.funciones;
 
 import java.util.Scanner;
 

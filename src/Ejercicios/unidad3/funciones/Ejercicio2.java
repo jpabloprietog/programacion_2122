@@ -1,10 +1,10 @@
 //Diseñar una  función a la que se le pasen dos enteros
 //y muestre todos los números comprendidos entre ellos.
-package Ejercicios.unidad3;
+package Ejercicios.unidad3.funciones;
 
 import java.util.Scanner;
 
-public class Ejercicio2_bis {
+public class Ejercicio2 {
 
     public static void main(String[] args) {
 

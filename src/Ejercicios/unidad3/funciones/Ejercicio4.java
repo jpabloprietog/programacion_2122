@@ -1,6 +1,6 @@
 //Diseñar una función que reciba como parámetros dos números enteros
 //y que devuelva el mayor de los dos.
-package Ejercicios.unidad3;
+package Ejercicios.unidad3.funciones;
 
 import java.util.Scanner;
 

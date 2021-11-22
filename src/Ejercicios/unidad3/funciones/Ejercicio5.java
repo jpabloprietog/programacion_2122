@@ -1,7 +1,7 @@
 //Repetir el ejercicio anterior con una versión que calcule el máximo de 3 números. Piensa un poco,
 //no hagas el algoritmo de comparación de los 3 números desde cero.
 
-package Ejercicios.unidad3;
+package Ejercicios.unidad3.funciones;
 
 import java.util.Scanner;
 

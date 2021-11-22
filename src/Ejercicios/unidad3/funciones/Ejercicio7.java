@@ -1,6 +1,6 @@
 //Diseñar una función que nos diga si un número es primo.
 
-package Ejercicios.unidad3;
+package Ejercicios.unidad3.funciones;
 
 import java.util.Scanner;
 

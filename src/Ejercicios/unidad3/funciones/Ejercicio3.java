@@ -7,11 +7,11 @@
 //
 //
 //volumen:
-package Ejercicios.unidad3;
+package Ejercicios.unidad3.funciones;
 
 import java.util.Scanner;
 
-public class Ejercicio3_bis {
+public class Ejercicio3 {
 
     public static void main(String[] args) {
 
