@@ -22,7 +22,7 @@ public class Ejercicio8_9 {
         do {
 
             alturaArbol = scanner.nextInt();
-
+            //REPASAR
             if (alturaArbol > alturaArbolMax) {
                 alturaArbolMax = alturaArbol;
                 idArbolAlturaMax = idArbol;

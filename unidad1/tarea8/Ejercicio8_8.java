@@ -23,3 +23,4 @@ public class Ejercicio8_8 {
         System.out.println("El factorial de " + numero + " es " + resultado);
     }
 }
+
