@@ -9,6 +9,7 @@ package unidad4.tarea2;
 
 public class cuentaCorriente {
 
+    //Atributos de la clase cuentacorriente
     private long saldo;
     private long limite;
     private String nombre;
@@ -50,6 +51,7 @@ public class cuentaCorriente {
         this.saldo += ingresar;
     }
 
+    //Construccion de los metodos getter y setter.
     public long getSaldo() {
         return saldo;
     }
@@ -66,6 +68,7 @@ public class cuentaCorriente {
         return DNI;
     }
 
+    //Muestra informacion.
     public void informacion() {
         System.out.println("El saldo es: " + getSaldo());
         System.out.println("El limite es: " + getLimite());

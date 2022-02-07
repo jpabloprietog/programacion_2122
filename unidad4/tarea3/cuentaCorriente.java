@@ -14,13 +14,10 @@ public class cuentaCorriente {
 
     //Este objeto no es visible para otras clases.
     private long saldo;
-
     //Este objeto no es visible para otras clases.
     private long limite;
-
     //Este objeto es publico para cualquier clase.
     public String nombre;
-
     //Este objeto es visible para clases vecinas.
     String DNI;
 
@@ -60,22 +57,18 @@ public class cuentaCorriente {
     }
 
     public long getSaldo() {
-
         return saldo;
     }
 
     public long getLimite() {
-
         return limite;
     }
 
     public String getNombre() {
-
         return nombre;
     }
 
     public String getDNI() {
-
         return DNI;
     }
 

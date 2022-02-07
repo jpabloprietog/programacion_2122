@@ -22,7 +22,7 @@ public class CuentaCorriente {
     private String nombre;
     private String DNI;
 
-    //Constructor
+    //Constructor de la cuenta corriente
     public CuentaCorriente(String nombreCliente, String dni) {
 
         this.nombre = nombreCliente;
